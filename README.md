@@ -1,7 +1,5 @@
 # mustafasalman-TDI-submission
-TDI project proposal preliminary result plots
 
-
-This contains submitted plots for the prelinary results in project proposal.
+This folder contains submitted plots for the prelinary results in capstone project proposal.
 
 Mustafa Salman
